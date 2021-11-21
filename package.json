@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KalvinN361/Budget-Tracker"
+    "url": "git+https://github.com/KalvinN361/Budget-Tracker.git"
   },
   "author": "",
   "license": "ISC",
@@ -21,5 +21,10 @@
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/KalvinN361/Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/KalvinN361/Budget-Tracker#readme",
+  "keywords": []
 }
