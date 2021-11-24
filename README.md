@@ -28,4 +28,4 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
   
   
   ## Visual Presentation
-  ![readMe Generator Demo](https://github.com/KalvinN361/E-Commerce-Back-End/blob/0afc52e14837484f736fbb61809f6a90c9d9a559/Demo%20(2).gif) 
+  ![readMe Generator Demo](https://github.com/KalvinN361/Budget-Tracker/blob/c0f2ab3f35e54fc0fb8e745d46574fa1abca8942/demo%20(3).gif) 
