@@ -15,7 +15,7 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
   npm start
   ```
    ## Deployed Link
-  The Note Taker app is [live on Heroku](https://budget-tracker-wee.herokuapp.com/)
+  The budget-tracker app is [live on Heroku](https://budget-tracker-wee.herokuapp.com/)
   
   
   ## License
